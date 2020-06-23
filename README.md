@@ -6,14 +6,20 @@
 
 # Python code and supporting data
 
-## Two python modules in the github directory were used to create the dataframes and store them as CSV files.
+## These python modules in the github directory were create during the lessons. Various plots and figures showing weather data and correlation  as a function of lattitude are available in the "data" folder.
 
-## weatherPy.ipynb & Weather_Database.ipynb
-## VacationPy.ipnyb & Vacation_Search.ipnyb
-## cities.xls & WeatherPy_database.xls
+## weatherPy.ipynb & VacationPy.ipnyb 
+
+## The following python modules in the github directory are for parts 1, 2 and 3 of module 6 challenge. A "data" folder contains the  CSV files. The same "data" folder contains PNG image files.
 
 
-## Various plots and figures showing weather data and correlation  as a function of lattitude are available in github.   
+## Weather_Database.ipynb, Vacation_Search.ipnyb,  Vacation_Itinerary.ipnyb
+
+
+## cities.xls, WeatherPy_database.xls, WeatheryPy_vacation.xls
+
+
+## WeatherPy_vacation_map.png, WeatherPy_travel_map.png, WeatherPy_travel_map_markers.png
 
 # Other key activities for this module included:
 
