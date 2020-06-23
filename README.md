@@ -1,18 +1,19 @@
 # World_Weather_Analysis
 
-## Objective
+# Objective
 
-# In this Lesson we used API calls to get data from api.openweathermap.org and google maps. We randomly generated the lattitude and longitude coordinates to obtain the neartest city and hotel weather statistics.
+## In this Lesson we used API calls to get data from api.openweathermap.org and google maps. We randomly generated the lattitude and longitude coordinates to obtain the neartest city and hotel weather statistics.
 
 # Python code and supporting data
 
-# Two python modules in the github directory were used to create the dataframes and store them as CSV files.
+## Two python modules in the github directory were used to create the dataframes and store them as CSV files.
 
-# weatherPy.ipynb & Weather_Database.ipynb
-# cities.xls & WeatherPy_database.xls
+## weatherPy.ipynb & Weather_Database.ipynb
+## VacationPy.ipnyb & Vacation_Search.ipnyb
+## cities.xls & WeatherPy_database.xls
 
 
-# Various plots and figures showing weather data and correlation  as a function of lattitude are available in github.   
+## Various plots and figures showing weather data and correlation  as a function of lattitude are available in github.   
 
 # Other key activities for this module included:
 
